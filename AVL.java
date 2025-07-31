@@ -18,5 +18,5 @@ interface AVL {
 
     void display(Node root, int level); //二分木の表示
 
-    //test
+    //testing
 }
