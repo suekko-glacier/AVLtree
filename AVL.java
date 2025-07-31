@@ -17,4 +17,6 @@ interface AVL {
     Node rot_right2(Node current, Node q ); // 二重 (tooright)
 
     void display(Node root, int level); //二分木の表示
+
+    //test
 }
